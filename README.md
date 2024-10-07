@@ -74,7 +74,6 @@ or you can download manually [at ](https://gluonhq.com/products/javafx/)
 4. Run the application:
 5. you can run manually from your IDE without compiling and install, but you have to config javafx on your IDE or you can follow step bellow
 ```bash
-mvn install
 java -jar --module-path /path/to/javafx-sdk-22.0.4/lib --add-modules javafx.controls,javafx.fxml /path/to/account-1.0-SNAPSHOT.jar
 ```
 
